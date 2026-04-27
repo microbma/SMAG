@@ -6,9 +6,10 @@ After download, all datasets can be unpacked using: `cat ./mag.tar.gz* > mag.tar
 
 # Community-maintained download guide (Highly recommended)
 
-To facilitate systematic discovery and convenient access to high-quality MAG resources, Dr. Rui Li from the Beijing Institute of Genomics has created an open-source index project, [Awesome MAG] (https://github.com/inspirewind/awesome-mag)
+To facilitate systematic discovery and convenient access to high-quality MAG resources, Dr. Rui Li from the Beijing Institute of Genomics has created an open-source index project, [Awesome MAG] (https://github.com/inspirewind/awesome-mag).
 
-SMAG has been included in this project, together with a detailed download guide:(https://github.com/inspirewind/awesome-mag/blob/main/sources/smag/download.md)
+SMAG has been included in this project, together with a detailed download guide:(https://github.com/inspirewind/awesome-mag/blob/main/sources/smag/download.md).
+
 We thank Dr. Rui Li (lirui@big.ac.cn) for organizing and maintaining this helpful community resource.
 
 
